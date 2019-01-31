@@ -2,6 +2,7 @@
 #define _BUSQUEDA_LOCAL_H
 
 #include "datos.h"
+#include "funciones.h"
 
 using namespace std;
 
@@ -12,8 +13,11 @@ class BusquedaLocal{
 		vector <int> solucion;
 		
 	public:
-		// Constructor
+		// Constructores
+		BusquedaLocal();
 		BusquedaLocal( Datos & matrices );
+		
+		int BL( Datos & matrices, vector <int> & sol, int fitness, int mejora=BALDWIDIANA );
 		
 		// Consultor del número de pesos que hay
 		inline unsigned size(){

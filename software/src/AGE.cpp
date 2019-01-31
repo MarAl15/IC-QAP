@@ -1,5 +1,5 @@
-#include "AGmej.h"
-#include "funciones.h"
+#include "AGE.h"
+#include "busquedaLocal.h"
 #include "random.h"
 #include <iostream>
 #include <tgmath.h>
@@ -10,11 +10,12 @@
 
 using namespace std;
 
-AGmej::AGmej( Datos & matrices ){
+AGE::AGE( Datos & matrices, int seleccion, int mejora ){
 	unsigned n = matrices.size(), // Número de característica
 			mejor_padre, peor_hijo, mejor_hijo;
+	BusquedaLocal bl;
 	
-	
+	//const int NUM_MUTACIONES = round( prob_mutacion*M*n );
     //default_random_engine generator (Seed);
 	//normal_distribution<float> distribution (0.0,0.3*0.3);
 	
@@ -44,21 +45,58 @@ AGmej::AGmej( Datos & matrices ){
 		w.clear();
 	}
 	
-	for(unsigned POB = 0; POB < NUM_POBLACIONES; POB++){
+	for(unsigned epoca = 0; epoca < EPOCAS; epoca++){
 		mejor_hijo = peor_hijo = 0;
 		hijos.clear();
 		vals.clear();
 		
-		for(unsigned j=0; j < M; j+=2)	{			
-			// OPERADOR DE SELECCIÓN: Se usará el torneo n-ario, consistente en elegir aleatoriamente n individuos de la población y seleccionar el mejor de ellos. 
-			// Se aplicará dos veces el torneo para elegir los dos padres que serán posteriormente recombinados (cruzados).			
-			unsigned p = torneo(valoraciones, M);
-			hijos.push_back( cromosomas.at(p) );
-			
-			unsigned k = torneo(valoraciones, M);
-			while( p==k )
-					k = torneo(valoraciones, M);
-			hijos.push_back( cromosomas.at(k) );
+		for(unsigned j=0; j < M; j+=2)	{
+					
+			// OPERADOR DE SELECCIÓN: 
+			if(seleccion==TORNEO){
+				// Se usará el torneo n-ario, consistente en elegir aleatoriamente n individuos de la población y seleccionar el mejor de ellos. Se aplicará dos veces el torneo para elegir los dos padres que serán posteriormente recombinados (cruzados).			
+				unsigned p = torneo(valoraciones, M);
+				hijos.push_back( cromosomas.at(p) );
+				
+				unsigned k = torneo(valoraciones, M);
+				while( p==k )
+						k = torneo(valoraciones, M);
+				hijos.push_back( cromosomas.at(k) );
+			}
+			else if(seleccion==RULETA){
+				int suma = sum(valoraciones),
+					aux = valoraciones.at(0);
+				int r = Randint( 0, suma );
+				unsigned p=0,
+						 k;
+				
+				while(aux<r){
+					p++;
+					aux += valoraciones.at(p);
+				}
+				hijos.push_back( cromosomas.at(p) );
+				
+				do{
+					r = Randint( 0, suma );
+					k = 0;
+					aux = valoraciones.at(0);
+					
+					while(aux<r){
+						k++;
+						aux += valoraciones.at(k);
+					}
+				}while( p==k );
+				hijos.push_back( cromosomas.at(k) );
+			}else{
+				// Se eligen dos padres aleatoriamente
+				unsigned p = Randint( 0, M-1 );
+				hijos.push_back( cromosomas.at(p) );
+				
+				unsigned k = Randint( 0, M-1 );
+				while( p==k )
+						k = Randint( 0, M-1 );
+				hijos.push_back( cromosomas.at(k) );
+			}
 			
 			
 			// OPERADOR DE CRUCE -> Se cruza siempre
@@ -66,16 +104,19 @@ AGmej::AGmej( Datos & matrices ){
 
 			
 			// OPERADOR DE MUTACIÓN
+			/*for(unsigned s=0; s<NUM_MUTACIONES; s++){
+				unsigned p = Randint( j, j+1 );
+				unsigned i = Randint( 0, n-1 );*/
 			for(unsigned p=j; p<=j+1; p++){
 				float prob = Randfloat(0,1);
 				if(prob <= prob_mutacion){
 					for(unsigned i=0; i<n; i++){
 						prob = Randfloat(0,1);
-						if(prob <= prob_mutacion_gen ){
-							k = Randint( 0, n-1 );
-					
-							while( k==i )
+						if(prob <= prob_mutacion_gen ){	
+							unsigned k;	
+							do{
 								k = Randint( 0, n-1 );
+							} while( k==i );
 
 							int valor = hijos.at(p).at(i);
 							hijos.at(p).at(i) = hijos.at(p).at(k);
@@ -84,6 +125,7 @@ AGmej::AGmej( Datos & matrices ){
 					}
 				}
 			}
+			
 			int val1 = calcularFitness(matrices, hijos.at(j));
 			int val2 = calcularFitness(matrices, hijos.at(j+1) ); 
 			
@@ -101,25 +143,32 @@ AGmej::AGmej( Datos & matrices ){
 				peor_hijo = j+1;
 		}
 		
+		if(mejora==BALDWIDIANA || mejora==LAMARCKIANA){
+			// Nos quedamos con la mejora si nos encontramos en la última epoca
+			if(mejora==BALDWIDIANA && epoca==(EPOCAS-1))
+				mejora = LAMARCKIANA;
+			
+			vals.at(mejor_hijo) = bl.BL(matrices, hijos.at(mejor_hijo), vals.at(mejor_hijo), mejora );
+			//valoraciones.at(mejor_padre) = bl.BL(matrices, cromosomas.at(mejor_padre), valoraciones.at(mejor_padre), mejora );
+		}
+			
 		// Reemplazamos el peor hijo por el mejor padre si tiene mejor fitness
 		if( valoraciones.at(mejor_padre)<vals.at(peor_hijo) ){
 			hijos[peor_hijo] = cromosomas.at(mejor_padre);
 			vals[peor_hijo] = valoraciones.at(mejor_padre);
 			
 			// Verificamos si el mejor hijo gana al padre
-			if( valoraciones.at(mejor_padre)>valoraciones.at(mejor_hijo) )
+			if( valoraciones.at(mejor_padre)>vals.at(mejor_hijo) )
 				mejor_padre = mejor_hijo;
 			else
 				mejor_padre = peor_hijo;
 		}
 		
-		
 		cromosomas = hijos;
 		valoraciones = vals;
 		
-		
-		/*cout << "Generacion " << POB+1 << endl; 
-		calcularFitness( matrices, cromosomas.at(mejor_padre), true );
+		cout << "Generacion " << epoca+1 << endl; 
+		/*calcularFitness( matrices, cromosomas.at(mejor_padre), true );
 		cout << endl;*/
 	}
 		

@@ -1,0 +1,14 @@
+Lamarck 1-4
+	 // Probabilidad de mutación.
+	const float prob_mutacion = 0.75; 
+	
+	// Probabilidad de mutación (por gen).
+	const float prob_mutacion_gen = 0.05; 
+	
+	// El tamaño de la población será de M cromosomas.
+	const unsigned M = 100; 
+	
+	// Número de generaciones a crear
+	const unsigned EPOCAS = 100 ó 500; 
+	
+

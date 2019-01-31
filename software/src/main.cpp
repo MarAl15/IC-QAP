@@ -1,7 +1,7 @@
 #include "datos.h"
-#include "funciones.h"
-#include "AGmej.h"
+#include "AGE.h"
 #include "busquedaLocal.h"
+#include "AGE-BL.h"
 
 #include "random.h"
 #include <iostream>
@@ -200,6 +200,7 @@ using namespace std;
 }*/
 int main(int argc, char** argv) {
 	Datos matrices("./datos/tai256c.dat");
+	clock_t start_time;
 	//Datos matrices("./datos/nug12.dat");
 	
 	/*cout << "  -> Resultados AGG: " << endl;
@@ -207,11 +208,46 @@ int main(int argc, char** argv) {
 	calcularFitness( matrices, agg.getSolucion(), true );
 	cout << endl;*/
 	
-	cout << "  -> Resultados AGmej: " << endl;
-	AGmej agmej( matrices );
+	/*start_time = clock();
+	AGEBL ageb( matrices );
+	cout << "  --> Tiempo: " << ((clock()- start_time)*1.0)/CLOCKS_PER_SEC << endl;*/
 	
-	cout << "  -> Resultados búsqueda local: " << endl;
+	/*start_time = clock();
+	AGEBL agel( matrices, LAMARCKIANA );
+	cout << "  --> Tiempo: " << ((clock()- start_time)*1.0)/CLOCKS_PER_SEC << endl;*/
+	
+	/*cout << "  -> Resultados AGE: " << endl;
+	start_time = clock();
+	AGE ag( matrices );
+	cout << "  --> Tiempo: " << ((clock()- start_time)*1.0)/CLOCKS_PER_SEC << endl;
+	
+	cout << endl;
+	cout << "  -> Resultados AGE-BALDWIDIANA: " << endl;
+	start_time = clock();
+	AGE agb( matrices, BALDWIDIANA );
+	cout << "  --> Tiempo: " << ((clock()- start_time)*1.0)/CLOCKS_PER_SEC << endl;*/
+	
+	/*cout << endl;
+	cout << "  -> Resultados AGE-LAMARCKIANA: " << endl;
+	start_time = clock();
+	AGE agl( matrices, TORNEO, LAMARCKIANA );
+	cout << "  --> Tiempo: " << ((clock()- start_time)*1.0)/CLOCKS_PER_SEC << endl;
+	
+	cout << endl;*/
+	
+	cout << endl;
+	cout << "  -> Resultados AGEBL-LAMARCKIANA: " << endl;
+	start_time = clock();
+	AGEBL agl( matrices, TORNEO, LAMARCKIANA );
+	cout << "  --> Tiempo: " << ((clock()- start_time)*1.0)/CLOCKS_PER_SEC << endl;
+	
+	cout << endl;
+	
+	
+	/*cout << "  -> Resultados búsqueda local: " << endl;
+	start_time = clock();
 	BusquedaLocal BL( matrices );
+	cout << "  --> Tiempo: " << ((clock()- start_time)*1.0)/CLOCKS_PER_SEC << endl;*/
 	
 	
 	/*clock_t start_time;

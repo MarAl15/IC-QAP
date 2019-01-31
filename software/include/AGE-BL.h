@@ -1,7 +1,9 @@
-#ifndef _AGMEJ_H
-#define _AGMEJ_H
+#ifndef _AGBL_H
+#define _AGBL_H
 
 #include "datos.h"
+#include "funciones.h"
+#include "AG.h"
 #include <iostream>
 
 using namespace std;
@@ -15,7 +17,7 @@ using namespace std;
 // Se aplicará dos veces el torneo para elegir los dos padres que serán posteriormente recombinados (cruzados).
 
 // OPERADOR DE MUTACIÓN: Operador de intercambio para representación de orden. Se escogeran aleatoriamente otro gen con el que intercambiar el patrón existente en el gen a mutar.
-class AGmej{
+class AGEBL: public AG{
 	private:
 		// Vector de permutaciones
 		vector<int> solucion; 
@@ -24,19 +26,19 @@ class AGmej{
 		//const float prob_cruce = 1;
 		
 		// Probabilidad de mutación.
-		const float prob_mutacion = 0.75; 
+		const float prob_mutacion = 0.5; //0.75
 		
 		// Probabilidad de mutación (por gen).
-		const float prob_mutacion_gen = 0.001; 
+		const float prob_mutacion_gen = 0.05; 
 		
 		// El tamaño de la población será de M cromosomas.
-		const unsigned M = 150; 
+		const unsigned M = 100; 
 		
 		// Número de generaciones a crear
-		const unsigned NUM_POBLACIONES = 500;
+		const unsigned EPOCAS = 100;
 	public:
 		// Constructor
-		AGmej( Datos & matrices );
+		AGEBL( Datos & matrices, int seleccion = ALEATORIO, int mejora=BALDWIDIANA );
 		
 		// Consultor la solucion
 		inline vector <int> & getSolucion(){
