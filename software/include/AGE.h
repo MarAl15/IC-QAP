@@ -35,7 +35,7 @@ class AGE: public AG{
 		const unsigned M = 100; 
 		
 		// Número de generaciones a crear
-		const unsigned EPOCAS = 500;
+		const unsigned EPOCAS = 1000;
 	public:
 		// Constructor
 		AGE( Datos & matrices, int seleccion = ALEATORIO, int mejora=SIN_MEJORA );

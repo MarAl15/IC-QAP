@@ -16,6 +16,8 @@ AGE::AGE( Datos & matrices, int seleccion, int mejora ){
 	BusquedaLocal bl;
 	
 	//const int NUM_MUTACIONES = round( prob_mutacion*M*n );
+	/////const int NUM_MUTACIONES = round( prob_mutacion*M );
+	/////const int NUM_MUTACIONES_GEN = round( prob_mutacion_gen*n );
     //default_random_engine generator (Seed);
 	//normal_distribution<float> distribution (0.0,0.3*0.3);
 	
@@ -109,10 +111,14 @@ AGE::AGE( Datos & matrices, int seleccion, int mejora ){
 				unsigned i = Randint( 0, n-1 );*/
 			for(unsigned p=j; p<=j+1; p++){
 				float prob = Randfloat(0,1);
+				/////int prob = Randint(0,M)
 				if(prob <= prob_mutacion){
+				/////if(prob <= NUM_MUTACIONES){
 					for(unsigned i=0; i<n; i++){
 						prob = Randfloat(0,1);
+						/////prob = Randint(0,n)
 						if(prob <= prob_mutacion_gen ){	
+						/////if(prob <= NUM_MUTACIONES_GEN){
 							unsigned k;	
 							do{
 								k = Randint( 0, n-1 );
@@ -143,11 +149,7 @@ AGE::AGE( Datos & matrices, int seleccion, int mejora ){
 				peor_hijo = j+1;
 		}
 		
-		if(mejora==BALDWIDIANA || mejora==LAMARCKIANA){
-			// Nos quedamos con la mejora si nos encontramos en la última epoca
-			if(mejora==BALDWIDIANA && epoca==(EPOCAS-1))
-				mejora = LAMARCKIANA;
-			
+		if(mejora==BALDWIDIANA || mejora==LAMARCKIANA){			
 			vals.at(mejor_hijo) = bl.BL(matrices, hijos.at(mejor_hijo), vals.at(mejor_hijo), mejora );
 			//valoraciones.at(mejor_padre) = bl.BL(matrices, cromosomas.at(mejor_padre), valoraciones.at(mejor_padre), mejora );
 		}
@@ -167,13 +169,26 @@ AGE::AGE( Datos & matrices, int seleccion, int mejora ){
 		cromosomas = hijos;
 		valoraciones = vals;
 		
-		cout << "Generacion " << epoca+1 << endl; 
-		/*calcularFitness( matrices, cromosomas.at(mejor_padre), true );
-		cout << endl;*/
+		if(mejora== BALDWIDIANA && epoca == (EPOCAS-1)){
+			bl.BL(matrices, cromosomas.at(mejor_padre), calcularFitness( matrices, cromosomas.at(mejor_padre)), LAMARCKIANA );
+		}	
+		
+		cout << "Generacion " << epoca+1 << endl;
+		if(mejora!=BALDWIDIANA){
+			/*cout << "	Solucion: "; 
+			for(unsigned i=0; i<n; i++)
+				cout << cromosomas.at(mejor_padre).at(i) << " ";
+			cout << endl;*/
+			cout << "	Fitness: " << valoraciones.at(mejor_padre) << endl;
+		}else{
+			cout << "	Fitness: " << calcularFitness( matrices, cromosomas.at(mejor_padre) ) << endl;
+			cout << "	Fitness BL: " << valoraciones.at(mejor_padre) << endl;
+		}
+		cout << endl;
 	}
 		
 	calcularFitness( matrices, cromosomas.at(mejor_padre), true );
-	cout << endl;
+	cout << endl;/**/
 			
 	solucion = cromosomas.at(mejor_padre);
 }

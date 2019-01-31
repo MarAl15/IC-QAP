@@ -26,7 +26,7 @@ class AGEBL: public AG{
 		//const float prob_cruce = 1;
 		
 		// Probabilidad de mutación.
-		const float prob_mutacion = 0.5; //0.75
+		const float prob_mutacion = 0.75; //0.5
 		
 		// Probabilidad de mutación (por gen).
 		const float prob_mutacion_gen = 0.05; 

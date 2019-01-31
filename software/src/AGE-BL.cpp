@@ -154,18 +154,21 @@ AGEBL::AGEBL( Datos & matrices, int seleccion, int mejora ){
 		}	
 		
 		cout << "Generacion " << epoca+1 << endl;
-		cout << "	Solucion: "; 
-		for(unsigned i=0; i<n; i++)
-			cout << cromosomas.at(mejor_padre).at(i) << " ";
-		cout << endl;
-		cout << "	Fitness: " << valoraciones.at(mejor_padre) << endl;
-		/*calcularFitness( matrices, cromosomas.at(mejor_padre), true );
-		cout << "	Fitness BL: " << valoraciones.at(mejor_padre) << endl;*/
+		if(mejora!=BALDWIDIANA){
+			/*cout << "	Solucion: "; 
+			for(unsigned i=0; i<n; i++)
+				cout << cromosomas.at(mejor_padre).at(i) << " ";
+			cout << endl;*/
+			cout << "	Fitness: " << valoraciones.at(mejor_padre) << endl;
+		}else{
+			cout << "	Fitness: " << calcularFitness( matrices, cromosomas.at(mejor_padre) ) << endl;
+			cout << "	Fitness BL: " << valoraciones.at(mejor_padre) << endl;
+		}
 		cout << endl;
 	}
 		
-	//calcularFitness( matrices, cromosomas.at(mejor_padre), true );
-	//cout << endl;
+	calcularFitness( matrices, cromosomas.at(mejor_padre), true );
+	cout << endl;
 			
 	solucion = cromosomas.at(mejor_padre);
 }

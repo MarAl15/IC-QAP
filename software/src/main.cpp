@@ -219,29 +219,34 @@ int main(int argc, char** argv) {
 	/*cout << "  -> Resultados AGE: " << endl;
 	start_time = clock();
 	AGE ag( matrices );
-	cout << "  --> Tiempo: " << ((clock()- start_time)*1.0)/CLOCKS_PER_SEC << endl;
-	
-	cout << endl;
-	cout << "  -> Resultados AGE-BALDWIDIANA: " << endl;
-	start_time = clock();
-	AGE agb( matrices, BALDWIDIANA );
 	cout << "  --> Tiempo: " << ((clock()- start_time)*1.0)/CLOCKS_PER_SEC << endl;*/
 	
 	/*cout << endl;
-	cout << "  -> Resultados AGE-LAMARCKIANA: " << endl;
+	cout << "  -> Resultados AGE-BALDWIDIANA-RULETA: " << endl;
+	start_time = clock();
+	AGE agb( matrices, RULETA, BALDWIDIANA );
+	cout << "  --> Tiempo: " << ((clock()- start_time)*1.0)/CLOCKS_PER_SEC << endl;*/
+	
+	cout << endl;
+	cout << "  -> Resultados AGE-LAMARCKIANA-TORNEO: " << endl;
+	start_time = clock();
+	AGE agl( matrices, TORNEO, LAMARCKIANA );
+	cout << "  --> Tiempo: " << ((clock()- start_time)*1.0)/CLOCKS_PER_SEC << endl;/**/
+	
+	/*cout << endl;
+	
+	cout << endl;
+	cout << "  -> Resultados AGE-LAMARCKIANA-TORNEO: " << endl;
 	start_time = clock();
 	AGE agl( matrices, TORNEO, LAMARCKIANA );
 	cout << "  --> Tiempo: " << ((clock()- start_time)*1.0)/CLOCKS_PER_SEC << endl;
 	
 	cout << endl;*/
 	
-	cout << endl;
-	cout << "  -> Resultados AGEBL-LAMARCKIANA: " << endl;
+	/*cout << "  -> Resultados AGEBL-BALDWIDIANA-TORNEO: " << endl;
 	start_time = clock();
-	AGEBL agl( matrices, TORNEO, LAMARCKIANA );
-	cout << "  --> Tiempo: " << ((clock()- start_time)*1.0)/CLOCKS_PER_SEC << endl;
-	
-	cout << endl;
+	AGEBL agl( matrices, TORNEO, BALDWIDIANA );
+	cout << "  --> Tiempo: " << ((clock()- start_time)*1.0)/CLOCKS_PER_SEC << endl;*/
 	
 	
 	/*cout << "  -> Resultados búsqueda local: " << endl;

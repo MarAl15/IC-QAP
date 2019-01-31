@@ -1,0 +1,2006 @@
+
+  -> Resultados AGE-BALDWIDIANA-TORNEO: 
+Generacion 1
+	Fitness: 50806826
+	Fitness BL: 44915062
+
+Generacion 2
+	Fitness: 50806826
+	Fitness BL: 44915062
+
+Generacion 3
+	Fitness: 50806826
+	Fitness BL: 44915062
+
+Generacion 4
+	Fitness: 50252448
+	Fitness BL: 44912474
+
+Generacion 5
+	Fitness: 50252448
+	Fitness BL: 44912474
+
+Generacion 6
+	Fitness: 50252448
+	Fitness BL: 44912474
+
+Generacion 7
+	Fitness: 50252448
+	Fitness BL: 44912474
+
+Generacion 8
+	Fitness: 50252448
+	Fitness BL: 44912474
+
+Generacion 9
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 10
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 11
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 12
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 13
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 14
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 15
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 16
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 17
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 18
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 19
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 20
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 21
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 22
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 23
+	Fitness: 50127052
+	Fitness BL: 44887974
+
+Generacion 24
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 25
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 26
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 27
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 28
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 29
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 30
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 31
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 32
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 33
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 34
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 35
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 36
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 37
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 38
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 39
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 40
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 41
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 42
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 43
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 44
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 45
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 46
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 47
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 48
+	Fitness: 49457744
+	Fitness BL: 44887174
+
+Generacion 49
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 50
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 51
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 52
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 53
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 54
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 55
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 56
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 57
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 58
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 59
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 60
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 61
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 62
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 63
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 64
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 65
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 66
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 67
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 68
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 69
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 70
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 71
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 72
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 73
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 74
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 75
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 76
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 77
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 78
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 79
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 80
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 81
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 82
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 83
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 84
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 85
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 86
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 87
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 88
+	Fitness: 49497072
+	Fitness BL: 44886318
+
+Generacion 89
+	Fitness: 49719322
+	Fitness BL: 44875640
+
+Generacion 90
+	Fitness: 49719322
+	Fitness BL: 44875640
+
+Generacion 91
+	Fitness: 49719322
+	Fitness BL: 44875640
+
+Generacion 92
+	Fitness: 49719322
+	Fitness BL: 44875640
+
+Generacion 93
+	Fitness: 49719322
+	Fitness BL: 44875640
+
+Generacion 94
+	Fitness: 49719322
+	Fitness BL: 44875640
+
+Generacion 95
+	Fitness: 49719322
+	Fitness BL: 44875640
+
+Generacion 96
+	Fitness: 49719322
+	Fitness BL: 44875640
+
+Generacion 97
+	Fitness: 49719322
+	Fitness BL: 44875640
+
+Generacion 98
+	Fitness: 49719322
+	Fitness BL: 44875640
+
+Generacion 99
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 100
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 101
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 102
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 103
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 104
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 105
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 106
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 107
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 108
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 109
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 110
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 111
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 112
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 113
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 114
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 115
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 116
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 117
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 118
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 119
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 120
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 121
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 122
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 123
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 124
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 125
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 126
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 127
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 128
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 129
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 130
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 131
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 132
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 133
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 134
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 135
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 136
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 137
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 138
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 139
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 140
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 141
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 142
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 143
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 144
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 145
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 146
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 147
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 148
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 149
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 150
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 151
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 152
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 153
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 154
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 155
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 156
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 157
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 158
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 159
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 160
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 161
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 162
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 163
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 164
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 165
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 166
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 167
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 168
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 169
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 170
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 171
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 172
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 173
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 174
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 175
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 176
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 177
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 178
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 179
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 180
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 181
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 182
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 183
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 184
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 185
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 186
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 187
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 188
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 189
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 190
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 191
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 192
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 193
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 194
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 195
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 196
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 197
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 198
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 199
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 200
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 201
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 202
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 203
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 204
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 205
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 206
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 207
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 208
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 209
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 210
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 211
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 212
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 213
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 214
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 215
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 216
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 217
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 218
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 219
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 220
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 221
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 222
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 223
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 224
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 225
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 226
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 227
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 228
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 229
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 230
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 231
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 232
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 233
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 234
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 235
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 236
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 237
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 238
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 239
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 240
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 241
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 242
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 243
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 244
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 245
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 246
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 247
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 248
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 249
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 250
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 251
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 252
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 253
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 254
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 255
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 256
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 257
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 258
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 259
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 260
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 261
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 262
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 263
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 264
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 265
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 266
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 267
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 268
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 269
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 270
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 271
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 272
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 273
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 274
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 275
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 276
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 277
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 278
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 279
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 280
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 281
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 282
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 283
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 284
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 285
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 286
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 287
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 288
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 289
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 290
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 291
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 292
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 293
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 294
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 295
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 296
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 297
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 298
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 299
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 300
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 301
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 302
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 303
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 304
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 305
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 306
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 307
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 308
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 309
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 310
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 311
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 312
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 313
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 314
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 315
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 316
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 317
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 318
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 319
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 320
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 321
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 322
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 323
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 324
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 325
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 326
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 327
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 328
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 329
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 330
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 331
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 332
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 333
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 334
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 335
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 336
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 337
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 338
+	Fitness: 49377478
+	Fitness BL: 44871926
+
+Generacion 339
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 340
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 341
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 342
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 343
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 344
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 345
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 346
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 347
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 348
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 349
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 350
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 351
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 352
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 353
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 354
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 355
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 356
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 357
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 358
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 359
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 360
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 361
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 362
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 363
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 364
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 365
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 366
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 367
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 368
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 369
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 370
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 371
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 372
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 373
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 374
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 375
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 376
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 377
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 378
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 379
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 380
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 381
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 382
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 383
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 384
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 385
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 386
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 387
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 388
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 389
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 390
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 391
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 392
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 393
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 394
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 395
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 396
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 397
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 398
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 399
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 400
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 401
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 402
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 403
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 404
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 405
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 406
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 407
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 408
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 409
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 410
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 411
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 412
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 413
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 414
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 415
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 416
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 417
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 418
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 419
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 420
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 421
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 422
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 423
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 424
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 425
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 426
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 427
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 428
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 429
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 430
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 431
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 432
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 433
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 434
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 435
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 436
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 437
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 438
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 439
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 440
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 441
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 442
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 443
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 444
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 445
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 446
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 447
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 448
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 449
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 450
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 451
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 452
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 453
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 454
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 455
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 456
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 457
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 458
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 459
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 460
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 461
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 462
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 463
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 464
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 465
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 466
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 467
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 468
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 469
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 470
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 471
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 472
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 473
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 474
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 475
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 476
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 477
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 478
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 479
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 480
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 481
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 482
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 483
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 484
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 485
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 486
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 487
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 488
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 489
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 490
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 491
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 492
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 493
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 494
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 495
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 496
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 497
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 498
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 499
+	Fitness: 49347386
+	Fitness BL: 44867682
+
+Generacion 500
+	Fitness: 44867682
+	Fitness BL: 44867682
+
+	Solucion: 6 153 144 103 111 23 131 8 173 236 170 177 114 168 105 253 185 175 136 10 122 133 221 40 197 200 80 219 74 148 31 179 35 85 91 4 215 53 63 217 18 112 76 139 14 165 99 1 187 88 27 61 251 29 21 208 109 156 129 32 245 65 207 55 57 116 124 242 68 212 162 70 50 230 190 249 118 232 204 240 194 158 182 225 151 82 44 78 239 42 227 126 59 149 69 224 178 164 228 229 54 101 11 5 26 48 15 77 186 119 201 43 66 206 104 56 30 244 58 157 52 72 71 3 183 108 150 28 67 102 231 184 117 132 110 193 135 152 222 250 241 171 238 94 39 86 235 252 146 138 89 248 7 134 218 205 166 41 233 172 140 47 36 73 191 188 98 113 181 92 161 141 180 16 123 220 211 125 0 17 155 142 25 143 243 237 195 20 196 62 22 163 176 216 127 90 84 75 64 223 209 137 19 96 106 37 210 115 45 167 121 93 147 97 254 38 247 33 189 174 159 192 81 120 130 246 13 87 198 9 145 234 202 79 2 107 49 214 199 60 12 169 160 46 154 51 83 226 100 203 128 255 213 24 95 34 
+	Fitness: 44867682
+
+  --> Tiempo: 237.557
