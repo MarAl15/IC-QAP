@@ -1,0 +1,306 @@
+  -> Resultados AGE-LAMARCKIANA-TORNEO: 
+Generacion 1
+	Fitness: 44944388
+
+Generacion 2
+	Fitness: 44944388
+
+Generacion 3
+	Fitness: 44914842
+
+Generacion 4
+	Fitness: 44914842
+
+Generacion 5
+	Fitness: 44914842
+
+Generacion 6
+	Fitness: 44914842
+
+Generacion 7
+	Fitness: 44908448
+
+Generacion 8
+	Fitness: 44908448
+
+Generacion 9
+	Fitness: 44908448
+
+Generacion 10
+	Fitness: 44908448
+
+Generacion 11
+	Fitness: 44908448
+
+Generacion 12
+	Fitness: 44900784
+
+Generacion 13
+	Fitness: 44900784
+
+Generacion 14
+	Fitness: 44900784
+
+Generacion 15
+	Fitness: 44900784
+
+Generacion 16
+	Fitness: 44900784
+
+Generacion 17
+	Fitness: 44900784
+
+Generacion 18
+	Fitness: 44900784
+
+Generacion 19
+	Fitness: 44900784
+
+Generacion 20
+	Fitness: 44900784
+
+Generacion 21
+	Fitness: 44900784
+
+Generacion 22
+	Fitness: 44900784
+
+Generacion 23
+	Fitness: 44900784
+
+Generacion 24
+	Fitness: 44900784
+
+Generacion 25
+	Fitness: 44900784
+
+Generacion 26
+	Fitness: 44900784
+
+Generacion 27
+	Fitness: 44900784
+
+Generacion 28
+	Fitness: 44900784
+
+Generacion 29
+	Fitness: 44900784
+
+Generacion 30
+	Fitness: 44900784
+
+Generacion 31
+	Fitness: 44900784
+
+Generacion 32
+	Fitness: 44900784
+
+Generacion 33
+	Fitness: 44900784
+
+Generacion 34
+	Fitness: 44900784
+
+Generacion 35
+	Fitness: 44900784
+
+Generacion 36
+	Fitness: 44900784
+
+Generacion 37
+	Fitness: 44900784
+
+Generacion 38
+	Fitness: 44900784
+
+Generacion 39
+	Fitness: 44900784
+
+Generacion 40
+	Fitness: 44900784
+
+Generacion 41
+	Fitness: 44900784
+
+Generacion 42
+	Fitness: 44900784
+
+Generacion 43
+	Fitness: 44900784
+
+Generacion 44
+	Fitness: 44900784
+
+Generacion 45
+	Fitness: 44900784
+
+Generacion 46
+	Fitness: 44900784
+
+Generacion 47
+	Fitness: 44900784
+
+Generacion 48
+	Fitness: 44900784
+
+Generacion 49
+	Fitness: 44900784
+
+Generacion 50
+	Fitness: 44900784
+
+Generacion 51
+	Fitness: 44900784
+
+Generacion 52
+	Fitness: 44900784
+
+Generacion 53
+	Fitness: 44900784
+
+Generacion 54
+	Fitness: 44900784
+
+Generacion 55
+	Fitness: 44900784
+
+Generacion 56
+	Fitness: 44900784
+
+Generacion 57
+	Fitness: 44900784
+
+Generacion 58
+	Fitness: 44900784
+
+Generacion 59
+	Fitness: 44900784
+
+Generacion 60
+	Fitness: 44900784
+
+Generacion 61
+	Fitness: 44900784
+
+Generacion 62
+	Fitness: 44900784
+
+Generacion 63
+	Fitness: 44900784
+
+Generacion 64
+	Fitness: 44900784
+
+Generacion 65
+	Fitness: 44900784
+
+Generacion 66
+	Fitness: 44900784
+
+Generacion 67
+	Fitness: 44900784
+
+Generacion 68
+	Fitness: 44900784
+
+Generacion 69
+	Fitness: 44900784
+
+Generacion 70
+	Fitness: 44900784
+
+Generacion 71
+	Fitness: 44900784
+
+Generacion 72
+	Fitness: 44900784
+
+Generacion 73
+	Fitness: 44900784
+
+Generacion 74
+	Fitness: 44900784
+
+Generacion 75
+	Fitness: 44900784
+
+Generacion 76
+	Fitness: 44900784
+
+Generacion 77
+	Fitness: 44900784
+
+Generacion 78
+	Fitness: 44900784
+
+Generacion 79
+	Fitness: 44900784
+
+Generacion 80
+	Fitness: 44900784
+
+Generacion 81
+	Fitness: 44900784
+
+Generacion 82
+	Fitness: 44900784
+
+Generacion 83
+	Fitness: 44900784
+
+Generacion 84
+	Fitness: 44900784
+
+Generacion 85
+	Fitness: 44900784
+
+Generacion 86
+	Fitness: 44900784
+
+Generacion 87
+	Fitness: 44900784
+
+Generacion 88
+	Fitness: 44900784
+
+Generacion 89
+	Fitness: 44900784
+
+Generacion 90
+	Fitness: 44900784
+
+Generacion 91
+	Fitness: 44900784
+
+Generacion 92
+	Fitness: 44900784
+
+Generacion 93
+	Fitness: 44900784
+
+Generacion 94
+	Fitness: 44900784
+
+Generacion 95
+	Fitness: 44900784
+
+Generacion 96
+	Fitness: 44900784
+
+Generacion 97
+	Fitness: 44900784
+
+Generacion 98
+	Fitness: 44900784
+
+Generacion 99
+	Fitness: 44900784
+
+Generacion 100
+	Fitness: 44900784
+
+	Solucion: 145 156 24 50 6 27 114 19 170 117 78 13 168 89 54 103 65 97 10 181 234 243 190 193 143 69 222 120 59 237 21 15 240 173 245 84 106 74 228 36 93 207 219 160 86 213 153 91 249 147 187 141 46 254 33 225 99 179 132 162 215 39 44 61 134 41 149 151 252 71 108 200 123 67 204 112 80 202 16 63 138 56 158 126 208 196 232 111 210 2 247 183 227 64 218 122 174 109 135 224 250 203 255 137 87 194 90 28 35 139 217 8 233 167 171 248 206 125 131 53 148 58 236 101 79 212 211 172 146 73 96 178 3 191 113 177 18 12 231 76 98 216 22 83 226 176 60 239 155 118 124 95 186 1 105 164 45 110 94 175 34 154 88 182 75 152 169 81 52 62 251 142 242 9 5 140 128 230 214 121 192 17 163 23 11 180 68 246 31 184 26 115 20 37 100 51 85 144 221 57 165 70 102 14 159 229 0 30 119 161 66 38 136 188 43 195 49 205 92 104 197 223 238 55 244 7 220 129 107 157 253 133 47 82 29 40 185 241 42 72 4 48 77 32 130 166 150 201 198 25 199 116 209 235 189 127 
+	Fitness: 44900784
+
+  --> Tiempo: 12.8747
+
